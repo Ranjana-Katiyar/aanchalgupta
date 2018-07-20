@@ -855,12 +855,12 @@ a:focus, a:hover {
 .contact-form input:hover,
 .contact-form textarea:hover,
 #contact-submit:hover {
-  border-color: #57cbcc;
+  border-color: #ff0000;
 }
 
 #contact-submit {
   border: 1px solid rgba(236, 239, 241, 0.07);
-  background: #57cbcc;
+  background: #ff0000;
   padding: 12px 0;
   width: 100%;
   margin: 0;
